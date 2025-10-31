@@ -1,7 +1,7 @@
 # 2ADMT-B
 Substituição profa. Florência por Prof. Massaki.
 ## *** Atividade para a tarde do dia 31/10/25:***
-[QRcodeAtividade](https://github.com/igarashimassaki/2ADMT-B/blob/main/QR_code_2ADMT-B.png)
+![QRcodeAtividade](https://github.com/igarashimassaki/2ADMT-B/blob/main/QR_code_2ADMT-B.png)
 
 Pensando na **"Formação de Preço"** pade que você, junto ao seu grupo, ***leiam os textos abaixo e ***desenvolvam um resumo contendo:**
 - 1- Como é a formação de preços;
