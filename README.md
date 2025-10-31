@@ -3,7 +3,7 @@ Substituição profa. Florência por Prof. Massaki.
 ## ***Atividade para a tarde do dia 31/10/25:***
 ![QRcodeAtividade](https://github.com/igarashimassaki/2ADMT-B/blob/main/QR_code_2ADMT-B-.png)
 
-Pensando na **"Formação de Preço"** pede-se que você, junto ao seu grupo, ***leiam os textos abaixo e***desenvolvam um resumo contendo:**
+Pensando na **"Formação de Preço"** pede-se que você, junto ao seu grupo, ***leiam os textos abaixo e*** desenvolvam um **resumo contendo**:
 - 1- Como é a formação de preços;
 - 2- Qual a importância de uma organização entender a formação de preço de seus produtos?;
 - 3- Por que é importante manter as tabelas de preços atualizadas em uma empresa?
