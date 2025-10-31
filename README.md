@@ -9,7 +9,7 @@ Pensando na **"Formação de Preço"** pade que você, junto ao seu grupo, ***le
 - 4) Quais os riscos de trabalhar com preços desatualizados?
 - 5) Quais os impactos dos controles de custos na formação de preços e como as organizações fazem a gestão de custos?
 
-# (**TEXTO 1 de 4**)[https://sebrae.com.br/sites/PortalSebrae/artigos/gestao-de-custos-como-ter-um-bom-controle-financeiro,890c9733dedbc410VgnVCM1000003b74010aRCRD]
+# [**TEXTO 1 de 4**](https://sebrae.com.br/sites/PortalSebrae/artigos/gestao-de-custos-como-ter-um-bom-controle-financeiro,890c9733dedbc410VgnVCM1000003b74010aRCRD)
 
 # **TEXTO 2 de 4**
 https://portaldacontabilidade.clmcontroller.com.br/markup-na-formacao-de-precos-industriais-calculos-e-aplicacoes/
